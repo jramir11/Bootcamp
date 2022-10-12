@@ -1,0 +1,19 @@
+en github CREAR un nuevo File bajo Bootcamp
+
+
+en TERMINAL
+
+1) cd en la carpeta a copiar a github
+
+git init
+git add .
+git commit -m "nombre del respaldo"
+git branch -M master
+git remote add origin https://github.com/jramir11/Bootcampt/NomRespaldo.git
+git push -u origin master
+
+
+MODIFICACIONES
+3) git add .
+4) git commit -m "nombre del respaldo"
+5) git push -u origin master

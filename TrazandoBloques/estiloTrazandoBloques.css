@@ -1,0 +1,50 @@
+.caja-plata {
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 10px;
+}
+.caja-verde {
+    height: 150px;
+    background-color: green;
+    margin: 10px;
+    padding: 10px;
+}
+.caja-azul {
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+    vertical-align: top;
+    display: inline-block;
+    box-sizing: border-box;
+
+}
+.caja-roja {
+    height: 400px;
+    width: 700px;
+    background-color: red;
+    margin: 10px;
+    padding: 5px;
+    vertical-align: top;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.caja-amarilla {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    margin: 10px;
+    padding: 10px;
+    vertical-align: top;
+    display: inline-block;
+    box-sizing: border-box;
+}
+#caja-purpura {
+    height: 120px;
+    width: 660px;
+    background-color: purple;
+    margin: 10px;
+    padding: 10px;
+}
